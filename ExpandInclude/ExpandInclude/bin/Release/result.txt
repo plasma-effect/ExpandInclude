@@ -1,0 +1,4 @@
+// start: test/file0.txt
+// start: file1.txt
+// end: file1.txt
+// end: test/file0.txt

@@ -1,0 +1,11 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/.vs
+/ExpandInclude/.vs/ExpandInclude/v16
+/ExpandInclude/ExpandInclude/obj/Release
+/ExpandInclude/ExpandInclude/obj/Debug
+/ExpandInclude/ExpandInclude/bin/Release/ExpandInclude.exe
+/ExpandInclude/ExpandInclude/bin/Release/ExpandInclude.exe.config
+/ExpandInclude/ExpandInclude/bin/Release/ExpandInclude.pdb
